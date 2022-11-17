@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Paises</string>
+    <string name="flag_description">Bandera país</string>
+    <string name="capital_country">Capital</string>
+    <string name="population_country">Población</string>
+    <string name="unknown">Desconocido</string>
+    <string name="city_name">Nombre ciudad</string>
+</resources>
